@@ -1,0 +1,2 @@
+sizeof(u) = 32;
+sizeof(s) = 40;
